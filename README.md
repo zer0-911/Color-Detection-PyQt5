@@ -1,6 +1,7 @@
 # Color-Detection-PyQt5
 
 Color Detection OpenCv and PyQt5
+![Color Detection UI](img/ss.png)
 
 ## PyQt5
 
